@@ -1,5 +1,3 @@
-
-
 # Accessibility & SEO Optimised for Marketing Website
 
 This repository contains the updated code for a marketing agency website. the new code has optimised the accessibility and SEO of the website
@@ -30,12 +28,9 @@ clone responsitory using the following command
 
 git clone git@github.com:dacliffe/horiseon-marketing-website.git
 
-## Usage 
+## Usage
 
-```
-
-![alt text](/Users/domcliffe/Bootcamp/horiseon-marketing-website/assets/images/screenshot.png)
-
+![screenshot of website](https://github.com/dacliffe/horiseon-marketing-website/blob/main/assets/images/screenshot.png?raw=true)
 
 
 ## License
